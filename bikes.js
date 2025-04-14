@@ -1,4 +1,4 @@
-const bikes = [
+export const bikes = [
   {
     id: "SS001",
     brand: "Yamaha",
@@ -441,4 +441,4 @@ const bikes = [
   },
 ];
 
-module.exports = bikes;
+
